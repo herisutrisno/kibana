@@ -26,7 +26,6 @@ import type { DataTableState } from './data_table/types';
 export type State = HostsPluginState &
   UsersPluginState &
   NetworkPluginState &
-  UsersPluginState &
   TimelinePluginState &
   ManagementPluginState & {
     app: AppState;

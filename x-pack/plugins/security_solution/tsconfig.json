@@ -140,5 +140,6 @@
     "@kbn/guided-onboarding",
     "@kbn/securitysolution-ecs",
     "@kbn/cell-actions",
+    "@kbn/expandable-flyout",
   ]
 }
